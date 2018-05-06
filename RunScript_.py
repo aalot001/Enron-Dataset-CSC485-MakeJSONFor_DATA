@@ -13,7 +13,7 @@ import sys, os
 import re
 import json
 
-maildir = "holst-k"
+maildir = "ermis-f"
 json_file = "emails.json"
 
 class Files():
@@ -22,7 +22,12 @@ class Files():
     
     def __init__(self, fp):
         self.parsing = Parser().parse(fp)
+        self.dirname = os.path.basename(os.path.dirname((fp.name)))
         self.filename = os.path.basename(fp.name)
+        
+    def _getDirname(self):
+        """Get directory name"""
+        return self.dirname
         
     def _getFilename(self):
         """Get file name"""
@@ -65,6 +70,7 @@ def _dictWithInfo(data):
     """A dictoinary for the data to make json file"""
 
     values = {
+        'Foldername': data._getDirname(),
         'filename': data._getFilename(),
         'from': data._getFrom()[0],
         'x-from': data._getFrom()[1]}

@@ -1,0 +1,38 @@
+[
+   {
+      "Foldername": "deleted_items",
+      "filename": "1_",
+      "from": "frank.ermis@enron.com",
+      "x-from": "Ermis, Frank"
+   },
+   {
+      "Foldername": "deleted_items",
+      "filename": "2_",
+      "from": "jason.wolfe@enron.com",
+      "x-from": "Wolfe, Jason"
+   },
+   {
+      "Foldername": "deleted_items",
+      "filename": "3_",
+      "from": "jason.wolfe@enron.com",
+      "x-from": "Wolfe, Jason"
+   },
+   {
+      "Foldername": "deleted_items",
+      "filename": "4_",
+      "from": "exchange.administrator@enron.com",
+      "x-from": "Exchange System Administrator"
+   },
+   {
+      "Foldername": "deleted_items",
+      "filename": "5_",
+      "from": "p..south@enron.com",
+      "x-from": "South, Steven P."
+   },
+   {
+      "Foldername": "deleted_items",
+      "filename": "6_",
+      "from": "jay.reitmeyer@enron.com",
+      "x-from": "Reitmeyer, Jay"
+   }
+]
