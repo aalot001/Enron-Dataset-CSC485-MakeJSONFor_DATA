@@ -2,97 +2,326 @@
    {
       "Foldername": "sent_items",
       "filename": "10_",
+      "Date": "Thu, 18 Oct 2001 05:19:15 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "fermis@hotmail.com"
+      ],
+      "x-to": [
+         "'fermis@hotmail.com'"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "12_",
+      "Date": "Thu, 18 Oct 2001 05:22:24 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "john@pgsenergy.com"
+      ],
+      "x-to": [
+         "'john@pgsenergy.com'"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "15_",
+      "Date": "Thu, 18 Oct 2001 10:32:33 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "jay.reitmeyer@enron.com"
+      ],
+      "x-to": [
+         "Reitmeyer"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "1_",
+      "Date": "Thu, 17 May 2001 12:59:17 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "frank.ermis@enron.com"
+      ],
+      "x-to": [
+         "Ermis"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "22_",
+      "Date": "Thu, 18 Oct 2001 18:06:15 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "jay.reitmeyer@enron.com"
+      ],
+      "x-to": [
+         "Reitmeyer"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "23_",
+      "Date": "Fri, 19 Oct 2001 17:14:53 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "p..south@enron.com"
+      ],
+      "x-to": [
+         "South"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "24_",
+      "Date": "Tue, 4 Dec 2001 13:29:00 -0800 (PST)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "danny.clark@enron.com"
+      ],
+      "x-to": [
+         "Clark"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "26_",
+      "Date": "Wed, 14 Nov 2001 05:48:39 -0800 (PST)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "pr <.palmer@enron.com>"
+      ],
+      "x-to": [
+         "Palmer"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "2_",
+      "Date": "Thu, 14 Jun 2001 11:00:11 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "kristann.shireman@enron.com"
+      ],
+      "x-to": [
+         "Shireman"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "3_",
+      "Date": "Tue, 31 Jul 2001 10:11:36 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "claudia.clark@enron.com"
+      ],
+      "x-to": [
+         "Clark"
+      ],
+      "cc": [
+         "mike.grigsby@enron.com"
+      ],
+      "x-cc": [
+         "Grigsby"
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "4_",
+      "Date": "Wed, 8 Aug 2001 12:59:14 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "melba.lozano@enron.com",
+         "omni-trainee.21@enron.com"
+      ],
+      "x-to": [
+         "Lozano",
+         "Melba"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "5_",
+      "Date": "Tue, 21 Aug 2001 11:22:34 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "stephanie.sever@enron.com"
+      ],
+      "x-to": [
+         "Sever"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "6_",
+      "Date": "Wed, 19 Sep 2001 15:01:08 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "fermis@hotmail.com"
+      ],
+      "x-to": [
+         "'fermis@hotmail.com'"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "7_",
+      "Date": "Wed, 3 Oct 2001 13:14:41 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "carole.frank@enron.com"
+      ],
+      "x-to": [
+         "Frank"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "8_",
+      "Date": "Tue, 16 Oct 2001 13:28:41 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "frank.ermis@enron.com"
+      ],
+      "x-to": [
+         "Ermis"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent_items",
       "filename": "9_",
+      "Date": "Tue, 16 Oct 2001 15:46:47 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "melba.lozano@enron.com"
+      ],
+      "x-to": [
+         "Lozano"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
+   },
+   {
+      "Foldername": "sent_items",
+      "filename": "emails.json",
+      "Date": null,
+      "from": null,
+      "x-from": null,
+      "to": [
+         null
+      ],
+      "x-to": [
+         null
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    }
 ]

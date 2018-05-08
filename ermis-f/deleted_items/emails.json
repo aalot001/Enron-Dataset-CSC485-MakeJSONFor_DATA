@@ -2,37 +2,134 @@
    {
       "Foldername": "deleted_items",
       "filename": "1_",
+      "Date": "Tue, 16 Oct 2001 13:28:41 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Ermis, Frank"
+      "x-from": "Ermis, Frank",
+      "to": [
+         "frank.ermis@enron.com"
+      ],
+      "x-to": [
+         "Ermis"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "deleted_items",
       "filename": "2_",
+      "Date": "Thu, 18 Oct 2001 13:15:25 -0700 (PDT)",
       "from": "jason.wolfe@enron.com",
-      "x-from": "Wolfe, Jason"
+      "x-from": "Wolfe, Jason",
+      "to": [
+         "frank.ermis@enron.com"
+      ],
+      "x-to": [
+         "Ermis"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "deleted_items",
       "filename": "3_",
+      "Date": "Thu, 18 Oct 2001 13:11:19 -0700 (PDT)",
       "from": "jason.wolfe@enron.com",
-      "x-from": "Wolfe, Jason"
+      "x-from": "Wolfe, Jason",
+      "to": [
+         "frank.ermis@enron.com"
+      ],
+      "x-to": [
+         "Ermis"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "deleted_items",
       "filename": "4_",
+      "Date": "Thu, 18 Oct 2001 13:09:39 -0700 (PDT)",
       "from": "exchange.administrator@enron.com",
-      "x-from": "Exchange System Administrator"
+      "x-from": "Exchange System Administrator",
+      "to": [
+         "randell.l.gay@enron.com"
+      ],
+      "x-to": [
+         "randell.l.gay@enron.com"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "deleted_items",
       "filename": "5_",
+      "Date": "Thu, 18 Oct 2001 10:47:51 -0700 (PDT)",
       "from": "p..south@enron.com",
-      "x-from": "South, Steven P."
+      "x-from": "South, Steven P.",
+      "to": [
+         "frank.ermis@enron.com"
+      ],
+      "x-to": [
+         "Ermis"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "deleted_items",
       "filename": "6_",
+      "Date": "Thu, 18 Oct 2001 05:19:09 -0700 (PDT)",
       "from": "jay.reitmeyer@enron.com",
-      "x-from": "Reitmeyer, Jay"
+      "x-from": "Reitmeyer, Jay",
+      "to": [
+         "frank.ermis@enron.com"
+      ],
+      "x-to": [
+         "Ermis"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
+   },
+   {
+      "Foldername": "deleted_items",
+      "filename": "emails.json",
+      "Date": null,
+      "from": null,
+      "x-from": null,
+      "to": [
+         null
+      ],
+      "x-to": [
+         null
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    }
 ]

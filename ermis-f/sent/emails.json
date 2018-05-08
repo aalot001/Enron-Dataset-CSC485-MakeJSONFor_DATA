@@ -2,55 +2,191 @@
    {
       "Foldername": "sent",
       "filename": "10_",
+      "Date": "Wed, 14 Feb 2001 02:09:00 -0800 (PST)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Frank Ermis"
+      "x-from": "Frank Ermis",
+      "to": [
+         "mike.grigsby@enron.com"
+      ],
+      "x-to": [
+         "Mike Grigsby"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent",
       "filename": "1_",
+      "Date": "Wed, 6 Dec 2000 02:55:00 -0800 (PST)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Frank Ermis"
+      "x-from": "Frank Ermis",
+      "to": [
+         "laura.pena@enron.com"
+      ],
+      "x-to": [
+         "Laura R Pena"
+      ],
+      "cc": [
+         "frank.ermis@enron.com"
+      ],
+      "x-cc": [
+         "Frank Ermis"
+      ]
    },
    {
       "Foldername": "sent",
       "filename": "2_",
+      "Date": "Fri, 7 Apr 2000 06:48:00 -0700 (PDT)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Frank Ermis"
+      "x-from": "Frank Ermis",
+      "to": [
+         "jay.reitmeyer@enron.com"
+      ],
+      "x-to": [
+         "Jay Reitmeyer"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent",
       "filename": "3_",
+      "Date": "Thu, 23 Mar 2000 08:47:00 -0800 (PST)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Frank Ermis"
+      "x-from": "Frank Ermis",
+      "to": [
+         "segold@hotmail.com"
+      ],
+      "x-to": [
+         "\"Sharon Chin\""
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent",
       "filename": "4_",
+      "Date": "Mon, 31 Jan 2000 08:37:00 -0800 (PST)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Frank Ermis"
+      "x-from": "Frank Ermis",
+      "to": [
+         "jkho@dynegy.com"
+      ],
+      "x-to": [
+         "jkho@dynegy.com"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent",
       "filename": "5_",
+      "Date": "Tue, 27 Feb 2001 23:25:00 -0800 (PST)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Frank Ermis"
+      "x-from": "Frank Ermis",
+      "to": [
+         "mike.grigsby@enron.com"
+      ],
+      "x-to": [
+         "Mike Grigsby"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent",
       "filename": "7_",
+      "Date": "Tue, 27 Feb 2001 23:23:00 -0800 (PST)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Frank Ermis"
+      "x-from": "Frank Ermis",
+      "to": [
+         "matthew.lenhart@enron.com"
+      ],
+      "x-to": [
+         "Matthew Lenhart"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent",
       "filename": "8_",
+      "Date": "Wed, 14 Feb 2001 07:12:00 -0800 (PST)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Frank Ermis"
+      "x-from": "Frank Ermis",
+      "to": [
+         "sharonc@cook-inlet.com"
+      ],
+      "x-to": [
+         "Sharonc@cook-inlet.com @ ENRON"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    },
    {
       "Foldername": "sent",
       "filename": "9_",
+      "Date": "Wed, 14 Feb 2001 04:04:00 -0800 (PST)",
       "from": "frank.ermis@enron.com",
-      "x-from": "Frank Ermis"
+      "x-from": "Frank Ermis",
+      "to": [
+         "john.malowney@enron.com"
+      ],
+      "x-to": [
+         "John Malowney"
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
+   },
+   {
+      "Foldername": "sent",
+      "filename": "emails.json",
+      "Date": null,
+      "from": null,
+      "x-from": null,
+      "to": [
+         null
+      ],
+      "x-to": [
+         null
+      ],
+      "cc": [
+         null
+      ],
+      "x-cc": [
+         null
+      ]
    }
 ]

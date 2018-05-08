@@ -65,15 +65,50 @@ class Files():
             return (None, None)
         return (self.parsing['From'],\
                 Files._getName(self.parsing['X-From']))
+    
+    def _getDate(self):
+        """Get the date """
+        if not self.parsing['date']:
+            return None
+        return (self.parsing['Date'])
+
+    def _getTo(self):
+        """ Get to in the form [(To, X-To)] """
+        to_list = self._getMessage("To")
+        if to_list:
+            return to_list
+        else:
+            return [(None, None)]
         
+    def _getCc(self):
+        """ Get CC in the form [(Cc, X-cc)] """
+        cc = self._getMessage("Cc")
+        if cc:
+            return cc
+        else:
+            return [(None, None)]
+        
+    def _getBcc(self):
+        """ Get Bcc in the form [(Bcc, X-bcc)] """
+        bcc = self._getMessage("Bcc")
+        if bcc:
+            return bcc
+        else:
+            return [(None, None)]
+
 def _dictWithInfo(data):
     """A dictoinary for the data to make json file"""
-
+    """Zip to make lists for the names of people in both To & CC"""
+    to, to_names = zip(*data._getTo())
+    cc, cc_names = zip(*data._getCc())
     values = {
         'Foldername': data._getDirname(),
         'filename': data._getFilename(),
+        'Date': data._getDate(),
         'from': data._getFrom()[0],
-        'x-from': data._getFrom()[1]}
+        'x-from': data._getFrom()[1],
+        'to': to, 'x-to': to_names,
+        'cc': cc, 'x-cc': cc_names}
     return values
 
 def _generateJson(dirname, _emails, file=json_file):
